@@ -1,0 +1,38 @@
+html{
+    font-size: 10px;
+}
+
+
+body {
+    text-align: center;
+    /* width:  1000px; */
+    height: 1400rem;
+}
+
+
+body {
+    background-image: url(./전체커버_수정.svg);
+    /* background-repeat: no-repeat;
+    background-size: auto; */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.sec2Btn{
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+
+@media screen and (max-width: 825px) {
+    html{
+        font-size: 5px;
+    }
+}
+
+@media screen and (max-width: 611px) {
+  html{
+      font-size: 4px;
+  }
+} 
