@@ -3,16 +3,12 @@ html{
 }
 
 
-body {
-    text-align: center;
-    height: 1400rem;
-}
 
 
 body {
     text-align: center;
-    height: 1400rem;
-    background-image: url(./img/main.svg);
+    height: 900rem;
+    background-image: url(./img/final_plz.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
