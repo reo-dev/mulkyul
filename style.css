@@ -8,23 +8,23 @@ html{
 body {
     text-align: center;
     height: 900rem;
-    background-image: url(./img/final_plz.svg);
+    background-image: url(./img/final_plz_1.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 .navi{
-    margin-top: 170rem;
+    margin-top: 180rem;
 }
 
 .naviBtn{
-    width: 20rem;
-    height: 20rem;
+    width: 17rem;
+    height: 17rem;
 }
 
 .video{
-    margin-top: 80rem;
+    margin-top: 85rem;
 }
 
 .video-content{
@@ -33,7 +33,7 @@ body {
 }
 
 #sec1{
-    margin-top: 130rem;
+    margin-top: 110rem;
 }
 
 .sec1padding{
@@ -41,15 +41,15 @@ body {
 }
 
 .sec1Btn{
-    width: 20rem;
-    height: 20rem;
+    width: 17rem;
+    height: 17rem;
 }
 
 
 
 
 #sec2{
-    margin-top: 210rem;
+    margin-top: 30rem;
 }
 
 .sec2padding{
@@ -57,13 +57,17 @@ body {
 }
 
 .sec2Btn{
-    width: 20rem;
-    height: 20rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    width: 15rem;
+    height: 15rem;
 }
 
 
 #sec3{
-    margin-top: 270rem;
+    margin-top: 291rem;
 }
 
 .sec3padding{
@@ -71,8 +75,25 @@ body {
 }
 
 .sec3Btn{
-    width: 60rem;
-    height: 60rem;
+    width: 32rem;
+    height: 8rem;
+}
+
+#sec4{
+    margin-top: 10rem;
+}
+
+.sec4padding{
+    padding-top: 10rem;
+}
+
+.sec4Btn{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    width: 20rem;
+    height: 5rem;
 }
 
 
